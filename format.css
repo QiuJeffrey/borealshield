@@ -7,9 +7,24 @@ body
 img
 {
     float: left;
-    margin-right: 10px;
-    margin-left: 4px;
+    margin-right: 8px;
+    margin-left: 8px;
     margin-bottom: 8px;
+}
+
+#righty
+{
+    float: right;
+}
+
+#upspace
+{
+    margin-top: 100px;
+}
+
+#upspace2
+{
+    margin-top: 40px;
 }
 
 .city
@@ -21,10 +36,11 @@ img
 
 .space
 {
-    margin-bottom: 60px;
+    margin-bottom: 30px;
 }
 
-#ok {
+#ok 
+{
     float: right;
     margin-left: 10px;
     margin-top: 10px;
@@ -44,7 +60,7 @@ h3
 
 #active
 {
-    background-color: whitesmoke;
+    background-color: lightgray;
     float: right;
 }
 
